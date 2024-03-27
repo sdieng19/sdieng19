@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sdieng19
-- 👀 I’m interested in data science in general, but specifically machine learning applications such as anomaly detection, fraud detection, natural language processing, image processing...
-- 🌱 I’m currently a data science trainee with 2 years experience. 
+- 👀 I’m interested in data engineering
+- 🌱 I’m currently a software engineer. 
 - 💞️ I’m looking to collaborate on any data related domain. 
 - 📫 How to reach me : sinydieng97@hotmail.fr
 
