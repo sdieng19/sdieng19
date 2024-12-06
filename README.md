@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**sdieng19/sdieng19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Data-driven software engineer passionate about building innovative solutions 🚀.
+- Developer with a focus on data engineering ⚙️ and machine learning 🤖.
+- Agile practitioner 🤝 committed to delivering high-quality software 🛠️.
 
-Here are some ideas to get you started:
+### Highlighting Skills and Interests:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python enthusiast crafting efficient data pipelines and models with big impact.
+- Cloud advocate ☁️ exploring the power of serverless architectures.
+
+### A Bit More Personal:
+
+- Problem-solver 🧠, coffee lover ☕, and lifelong learner 📚.
+- Building the future 🏗️, one line of code at a time 💻.
